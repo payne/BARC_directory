@@ -1,0 +1,9 @@
+{
+  "source_file": "BARC_2025_July_09.pdf",
+  "extraction_date": "2025-07-09",
+  "total_pages": 12,
+  "total_pictures_extracted": 67,
+  "total_members_parsed": 79,
+  "pictures_directory": "pictures/",
+  "naming_convention": "Pictures named with call sign (e.g., K0TMO.png)"
+}
